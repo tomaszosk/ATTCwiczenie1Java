@@ -44,5 +44,4 @@ Potwierdzić wybór przyciskiem Open i po otwarciu chromedriver można go od raz
 
 Działanie testu:
 
-https://drive.google.com/file/d/1asx2y5gBqkuA9DUxSQVSng5SKZeAx4uw/view?usp=sharing
-
+https://drive.google.com/file/d/1cPPmde9VJIr2EapIANF2Ly4JolG88wWw/view?usp=sharing
