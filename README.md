@@ -36,7 +36,10 @@ Potwierdzić wybór przyciskiem Open i po otwarciu chromedriver można go od raz
 8. Wskazać na pobrany i rozpakowany folder ATTCwiczenie1Java-master i nacisnąć przycisk Finish
 <img width="879" alt="Screenshot 2020-09-25 at 6 11 55 PM" src="https://user-images.githubusercontent.com/48413593/94290551-a3e42980-ff5a-11ea-8773-902517f0e1d8.png">
 
-9. Zaznaczyć projekt i kliknąć przycisk Run
+9. Nacisnąć PPMyszy na chromedriver w folderze lib/ChromeDriver i właściwości, zaznaczyć checkbox'y Execute i Apply and Close
+<img width="810" alt="Screenshot 2020-09-25 at 7 22 49 PM" src="https://user-images.githubusercontent.com/48413593/94297502-e3b00e80-ff64-11ea-9ba6-1200c0db09fa.png">
+
+10. Zaznaczyć projekt i kliknąć przycisk Run
 <img width="344" alt="Screenshot 2020-09-25 at 6 13 25 PM" src="https://user-images.githubusercontent.com/48413593/94290800-f9b8d180-ff5a-11ea-9a61-7ab810f18cc1.png">
 
 
